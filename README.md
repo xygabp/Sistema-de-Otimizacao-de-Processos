@@ -6,5 +6,6 @@ ADS (Fatec José Crespo Gonzales);
 Integrantes:
 Andreas Oliveira,
 Gabriel Sales,
-Kenzo.
+Kenzo,
+Otávio do Amaral.
 
