@@ -7,5 +7,6 @@ Integrantes:
 Andreas Oliveira,
 Gabriel Sales,
 Kenzo,
-Otávio do Amaral.
+Otávio do Amaral,
+Juliana Zatta.
 
