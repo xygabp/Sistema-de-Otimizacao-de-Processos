@@ -13,8 +13,8 @@ Este software tem o potencial de revolucionar a gestão de linhas de produção,
 
 
 # Integrantes
-Andreas Oliveira;
-Gabriel Sales;
-Kenzo;
-Otávio do Amaral;
-Juliana Zatta.
+- Andreas Oliveira;
+- Gabriel Sales;
+- Kenzo;
+- Otávio do Amaral;
+- Juliana Zatta.
