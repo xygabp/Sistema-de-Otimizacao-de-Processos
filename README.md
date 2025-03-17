@@ -6,10 +6,10 @@ Este software tem o potencial de revolucionar a gestão de linhas de produção,
 
 
 # Tecnologias
-- Frontend: Bootstrap para a interface visual (cards, modais, grid responsivo).
-- Backend: Algoritmos de otimização (programação linear, algoritmos genéticos ou machine learning).
-- Banco de Dados: Armazenar informações de funcionários, produtos e históricos de produção.
-- Integração: Conectar-se a sistemas existentes (ERPs, gestão de produção).
+- Frontend: *Bootstrap* para a interface visual (cards, modais, grid responsivo).
+- Backend: *Java*. Algoritmos de otimização (programação linear, algoritmos genéticos ou machine learning).
+- Front End: *Spring MVC*.
+- Banco de Dados: *MySQL*. Armazenar informações de funcionários, produtos e históricos de produção.
 
 
 # Integrantes
