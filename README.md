@@ -6,9 +6,8 @@ Este software tem o potencial de revolucionar a gestão de linhas de produção,
 
 
 # Tecnologias
-- Frontend: *Bootstrap* para a interface visual (cards, modais, grid responsivo).
+- Frontend: *Bootstrap*, Spring MVC. Para a interface visual (cards, modais, grid responsivo).
 - Backend: *Java*. Algoritmos de otimização (programação linear, algoritmos genéticos ou machine learning).
-- Front End: *Spring MVC*.
 - Banco de Dados: *MySQL*. Armazenar informações de funcionários, produtos e históricos de produção.
 
 
