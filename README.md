@@ -91,7 +91,7 @@ Estratégia de negócios com projeção financeira para 3 anos:
 
 | Membro               | Área Principal       | Contato                          |
 |----------------------|----------------------|----------------------------------|
-| Andreas Oliveira     | Backend              | andreas.oliveira159@GMAIL.com     |
+| Andreas Oliveira     | Backend              | andreas.oliveira159@gmail.com     |
 | Gabriel Sales        | Frontend             |        |
 | Kenzo                | Banco de Dados       |             |
 | Otávio do Amaral     | Documentação         |        |
