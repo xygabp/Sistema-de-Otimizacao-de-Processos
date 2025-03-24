@@ -91,11 +91,11 @@ Estratégia de negócios com projeção financeira para 3 anos:
 
 | Membro               | Área Principal       | Contato                          |
 |----------------------|----------------------|----------------------------------|
-| Andreas Oliveira     | Backend              | andreas.oliveira@example.com     |
-| Gabriel Sales        | Frontend             | gabriel.sales@example.com        |
-| Kenzo                | Banco de Dados       | kenzo.dev@example.com            |
-| Otávio do Amaral     | Documentação         | otavio.amaral@example.com        |
-| Juliana Zatta        | QA                   | juliana.zatta@example.com        |
+| Andreas Oliveira     | Backend              | andreas.oliveira159@GMAIL.com     |
+| Gabriel Sales        | Frontend             |        |
+| Kenzo                | Banco de Dados       |             |
+| Otávio do Amaral     | Documentação         |        |
+| Juliana Zatta        | QA                   |       |
 
 ---
 
