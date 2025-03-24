@@ -6,7 +6,7 @@
 </p>
 
 **Software de Otimização de Alocação Industrial**  
-*Projeto de Engenharia de Software II - PUCRS*  
+*Projeto de Engenharia de Software II - FATEC*  
 
 ---
 
