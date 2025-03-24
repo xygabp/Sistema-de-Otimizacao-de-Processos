@@ -51,7 +51,7 @@ Acesse: `http://localhost:8080`
 |--------|--------|--------|
 | Andreas Oliveira | Backend | [@andreasoli159](https://github.com/andreasoli159) |
 | Gabriel Sales | Frontend | [@xygabp](https://github.com/xygabp) |
-| Kenzo | Banco de dados | [@kenzo](https://github.com/kenzo) |
+| Kenzo | Banco de dados | [@kenzo] |
 | Otávio do Amaral | Documentação | [@nujabes-mp3](https://github.com/nujabes-mp3) |
 | Juliana Zatta | Testes | [@julianazatta](https://github.com/julianazatta) |
 
