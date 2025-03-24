@@ -41,7 +41,7 @@ Análise detalhada dos principais usuários do sistema:
 | **Supervisor**| Alocação diária de equipes              | Balancear habilidades x demanda   |
 | **Operador**  | Clareza nas tarefas diárias             | Reportar problemas de produção    |
 
-[🔗 Acesse documento completo de Personas](https://docs.google.com/document/d/1YHtOTNKCfL13RduCq9Js9xZ82KgPFtei/edit?usp=drive_link&ouid=110330896226553490092&rtpof=true&sd=true)]
+[🔗 Acesse documento completo de Personas](https://docs.google.com/document/d/1YHtOTNKCfL13RduCq9Js9xZ82KgPFtei/edit?usp=sharing)
 
 ### 💰 Modelo de Monetização
 Estratégia de negócios com projeção financeira para 3 anos:
@@ -52,7 +52,7 @@ Estratégia de negócios com projeção financeira para 3 anos:
   - Básico (R$ 500/mês): 1 linha de produção  
   - Premium (R$ 2.000/mês): Linhas ilimitadas + relatórios avançados
 
-[🔗 Acesse plano financeiro detalhado](https://docs.google.com/document/d/1XBHqTbrBoD-VlA464C1OhgyH3wV5qKvn/edit?usp=drive_link&ouid=110330896226553490092&rtpof=true&sd=true)]
+[🔗 Acesse plano financeiro detalhado](https://docs.google.com/document/d/1XBHqTbrBoD-VlA464C1OhgyH3wV5qKvn/edit?usp=sharing)
 
 ---
 
@@ -76,3 +76,26 @@ Estratégia de negócios com projeção financeira para 3 anos:
 3. **Dados**  
    - MySQL 8.0 com modelagem relacional
    - Armazena histórico de produção por operador
+
+---
+
+## 🚀 Guia de Implementação
+
+### Pré-requisitos
+- Java Development Kit 17+
+- MySQL Server 8.0+
+- Maven 3.8+
+
+### Passo a Passo
+```bash
+# 1. Clonar repositório
+git clone https://github.com/xygabp/Revolucao-da-Gestao-de-Linha-de-Producao.git
+
+# 2. Configurar banco de dados (execute no MySQL)
+CREATE DATABASE producao_db;
+CREATE USER 'prod_user'@'localhost' IDENTIFIED BY 'senha_segura';
+GRANT ALL PRIVILEGES ON producao_db.* TO 'prod_user'@'localhost';
+
+# 3. Iniciar aplicação
+cd Revolucao-da-Gestao-de-Linha-de-Producao
+./mvnw spring-boot:run
