@@ -41,7 +41,7 @@ Análise detalhada dos principais usuários do sistema:
 | **Supervisor**| Alocação diária de equipes              | Balancear habilidades x demanda   |
 | **Operador**  | Clareza nas tarefas diárias             | Reportar problemas de produção    |
 
-[🔗 Acesse documento completo de Personas][(https://docs.google.com/document/d/1YHtOTNKCfL13RduCq9Js9xZ82KgPFtei/edit?usp=drive_link&ouid=110330896226553490092&rtpof=true&sd=true)]
+[🔗 Acesse documento completo de Personas](https://docs.google.com/document/d/1YHtOTNKCfL13RduCq9Js9xZ82KgPFtei/edit?usp=drive_link&ouid=110330896226553490092&rtpof=true&sd=true)]
 
 ### 💰 Modelo de Monetização
 Estratégia de negócios com projeção financeira para 3 anos:
@@ -52,7 +52,7 @@ Estratégia de negócios com projeção financeira para 3 anos:
   - Básico (R$ 500/mês): 1 linha de produção  
   - Premium (R$ 2.000/mês): Linhas ilimitadas + relatórios avançados
 
-[🔗 Acesse plano financeiro detalhado][(https://docs.google.com/document/d/1XBHqTbrBoD-VlA464C1OhgyH3wV5qKvn/edit?usp=drive_link&ouid=110330896226553490092&rtpof=true&sd=true)]
+[🔗 Acesse plano financeiro detalhado](https://docs.google.com/document/d/1XBHqTbrBoD-VlA464C1OhgyH3wV5qKvn/edit?usp=drive_link&ouid=110330896226553490092&rtpof=true&sd=true)]
 
 ---
 
