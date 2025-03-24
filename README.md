@@ -85,3 +85,19 @@ Estratégia de negócios com projeção financeira para 3 anos:
 - Java Development Kit 17+
 - MySQL Server 8.0+
 - Maven 3.8+
+
+
+## 👨‍💻 Equipe de Desenvolvimento
+
+| Membro               | Área Principal       | Contato                          |
+|----------------------|----------------------|----------------------------------|
+| Andreas Oliveira     | Backend              | andreas.oliveira@example.com     |
+| Gabriel Sales        | Frontend             | gabriel.sales@example.com        |
+| Kenzo                | Banco de Dados       | kenzo.dev@example.com            |
+| Otávio do Amaral     | Documentação         | otavio.amaral@example.com        |
+| Juliana Zatta        | QA                   | juliana.zatta@example.com        |
+
+---
+
+📅 **Última Atualização**: 25/03/2025  
+[📋 Relatório Técnico](#) | [🎥 Demonstração](#)
