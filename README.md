@@ -38,7 +38,6 @@ Análise detalhada dos principais usuários do sistema:
 | Tipo          | Necessidades Primárias                  | Dificuldades Comuns               |
 |---------------|-----------------------------------------|-----------------------------------|
 | **Gestor**    | Visão macro da produção                 | Identificar gargalos rapidamente  |
-| **Supervisor**| Alocação diária de equipes              | Balancear habilidades x demanda   |
 | **Operador**  | Clareza nas tarefas diárias             | Reportar problemas de produção    |
 
 [🔗 Acesse documento completo de Personas](https://docs.google.com/document/d/1YHtOTNKCfL13RduCq9Js9xZ82KgPFtei/edit?usp=sharing)
