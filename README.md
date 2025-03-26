@@ -94,7 +94,6 @@ Estratégia de negócios com projeção financeira para 3 anos:
 | Gabriel Sales        | Frontend             |        |
 | Kenzo                | Banco de Dados       |             |
 | Otávio do Amaral     | Documentação         |        |
-| Juliana Zatta        | QA                   |       |
 
 ---
 
