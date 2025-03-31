@@ -40,7 +40,7 @@ Análise detalhada dos principais usuários do sistema:
 | **Gestor**    | Visão macro da produção                 | Identificar gargalos rapidamente  |
 | **Operador**  | Clareza nas tarefas diárias             | Reportar problemas de produção    |
 
-[🔗 Acesse documento completo de Personas](https://docs.google.com/document/d/1YHtOTNKCfL13RduCq9Js9xZ82KgPFtei/edit?usp=sharing)
+[🔗 Acesse documento completo de Personas](https://drive.google.com/file/d/1DKExna3KgaRlbHiWDEhMVpi1FznvKAya/view?usp=drivesdk)
 
 
 ### 💰 Modelo de Monetização
