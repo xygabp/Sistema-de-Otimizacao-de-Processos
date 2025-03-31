@@ -40,7 +40,7 @@ Análise detalhada dos principais usuários do sistema:
 | **Gestor**    | Visão macro da produção                 | Identificar gargalos rapidamente  |
 | **Operador**  | Clareza nas tarefas diárias             | Reportar problemas de produção    |
 
-[🔗 Acesse documento completo de Personas](/storage/emulated/0/Documents/markor/update user stories.md)
+[🔗 Acesse documento completo de Personas](/storage/emulated/0/Documents/markor/update user stories.md)]
 
 ### 💰 Modelo de Monetização
 Estratégia de negócios com projeção financeira para 3 anos:
