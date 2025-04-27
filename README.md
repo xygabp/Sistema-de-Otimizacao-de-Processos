@@ -10,49 +10,32 @@
 
 ---
 
-## 📌 Visão do Projeto
-Solução inteligente para gestão de recursos humanos em ambientes industriais que:
-
-- **Alocação Dinâmica**  
-  Utiliza algoritmos de otimização para distribuir colaboradores conforme suas competências técnicas e demandas de produção, reduzindo tempo ocioso em 30-40%.
-
-- **Monitoramento Visual**  
-  Interface gráfica interativa que representa a linha de produção em formato oval, com cores que indicam em tempo real:
-  - 🟢 Postos operando com eficiência ideal  
-  - 🟡 Postos com desempenho aceitável  
-  - 🔴 Gargalos críticos que exigem intervenção
-
-- **Gestão de Competências**  
-  Sistema integrado de job rotation que:
-  1. Mapeia habilidades por colaborador
-  2. Sugere treinamentos cruzados
-  3. Acompanha progresso em novos postos
+## 📌 Resumo do Projeto
+Solução inteligente para gestão de recursos humanos em ambientes industriais que combina:
+- Algoritmos de otimização para alocação dinâmica de colaboradores
+- Visualização interativa de linhas de produção
+- Gestão estratégica de competências e job rotation
+- Monitoramento em tempo real de gargalos operacionais
 
 ---
 
-## 📂 Documentação Técnica
+## 🚀 Funcionalidades Principais
+- **Alocação Dinâmica**  
+  Distribuição automática baseada em habilidades e demanda produtiva
 
-### 👥 Perfis de Personas
-Análise detalhada dos principais usuários do sistema:
+- **Layout Interativo**  
+  Visualização oval com código de cores:
+  - 🟢 Eficiência ideal (>85%)
+  - 🟡 Desempenho aceitável (60-85%)
+  - 🔴 Gargalo crítico (<60%)
 
-| Tipo          | Necessidades Primárias                  | Dificuldades Comuns               |
-|---------------|-----------------------------------------|-----------------------------------|
-| **Gestor**    | Visão macro da produção                 | Identificar gargalos rapidamente  |
-| **Operador**  | Clareza nas tarefas diárias             | Reportar problemas de produção    |
+- **Gestão de Competências**  
+  1. Mapeamento de habilidades
+  2. Sugestão de treinamentos
+  3. Acompanhamento de progresso
 
-[🔗 Acesse documento completo de Personas](https://drive.google.com/file/d/1DKExna3KgaRlbHiWDEhMVpi1FznvKAya/view?usp=drivesdk)
-
-
-### 💰 Modelo de Monetização
-Estratégia de negócios com projeção financeira para 3 anos:
-
-- **Mercado-Alvo**: Indústrias de médio/grande porte
-- **Modelo Principal**: SaaS (assinaturas mensais)
-- **Planos**:  
-  - Básico (R$ 500/mês): 1 linha de produção  
-  - Premium (R$ 2.000/mês): Linhas ilimitadas + relatórios avançados
-
-[🔗 Acesse plano financeiro detalhado](https://docs.google.com/document/d/1XBHqTbrBoD-VlA464C1OhgyH3wV5qKvn/edit?usp=sharing)
+- **Relatórios Inteligentes**  
+  Geração automática de métricas de produtividade
 
 ---
 
@@ -65,38 +48,29 @@ Estratégia de negócios com projeção financeira para 3 anos:
 </div>
 
 ### Camadas Principais:
-1. **Frontend**  
-   - Bootstrap 5 + Thymeleaf para templates dinâmicos
-   - Konva.js para visualização interativa do layout fabril
+1. **Frontend**: Bootstrap 5 + Thymeleaf + Konva.js
+2. **Backend**: Java 17 + Spring Boot 3.2
+3. **Banco de Dados**: MySQL 8.0 (Modelo relacional)
 
-2. **Backend**  
-   - Java 17 com Spring Boot 3.2
-   - Algoritmos de programação linear para otimização
+---
 
-3. **Dados**  
-   - MySQL 8.0 com modelagem relacional
-   - Armazena histórico de produção por operador
+## 📂 Documentação Técnica
+
+### 👥 Perfis de Personas
+[🔗 Acesse documento completo](https://drive.google.com/file/d/1DKExna3KgaRlbHiWDEhMVpi1FznvKAya/view?usp=drivesdk)
+
+### 💰 Modelo de Monetização
+[🔗 Acesse plano financeiro detalhado](https://docs.google.com/document/d/1XBHqTbrBoD-VlA464C1OhgyH3wV5qKvn/edit?usp=sharing)
 
 ---
 
 ## 🚀 Guia de Implementação
-
 ### Pré-requisitos
-- Java Development Kit 17+
-- MySQL Server 8.0+
+- Java 17+
+- MySQL 8.0+
 - Maven 3.8+
 
-
-## 👨‍💻 Equipe de Desenvolvimento
-
-| Membro               | Área Principal       | Contato                          |
-|----------------------|----------------------|----------------------------------|
-| Andreas Oliveira     | Backend              | andreas.oliveira159@gmail.com     |
-| Gabriel Sales        | Frontend             |        |
-| Kenzo                | Banco de Dados       | kenzowendell@gmail.com |
-| Otávio do Amaral     | Documentação         |        |
-
----
-
-📅 **Última Atualização**: 25/03/2025  
-[📋 Relatório Técnico](#) | [🎥 Demonstração](#)
+```bash
+git clone https://github.com/xygabp/Revolucao-da-Gestao-de-Linha-de-Producao.git
+cd Revolucao-da-Gestao-de-Linha-de-Producao
+./mvnw spring-boot:run
