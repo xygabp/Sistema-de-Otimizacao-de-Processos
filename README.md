@@ -56,11 +56,14 @@ Solução inteligente para gestão de recursos humanos em ambientes industriais 
 
 ## 📂 Documentação Técnica
 
-### 👥 Perfis de Personas
-[🔗 Acesse documento completo](https://drive.google.com/file/d/1DKExna3KgaRlbHiWDEhMVpi1FznvKAya/view?usp=drivesdk)
+### 👥 Perfis de Personas  
+[🔗 Acesse documento completo](https://drive.google.com/file/d/1DKExna3KgaRlbHiWDEhMVpi1FznvKAya/preview)
 
-### 💰 Modelo de Monetização
-[🔗 Acesse plano financeiro detalhado](https://docs.google.com/document/d/1XBHqTbrBoD-VlA464C1OhgyH3wV5qKvn/edit?usp=sharing)
+### 💰 Modelo de Monetização  
+[🔗 Acesse plano financeiro detalhado](https://docs.google.com/document/d/1XBHqTbrBoD-VlA464C1OhgyH3wV5qKvn/preview)
+
+### 📑 Documento Complementar  
+[🔗 Análise técnica completa](https://docs.google.com/document/d/1dNVRfJuVdGFT-Sjcv-Besx-uASdz6GjJZOmw6symi-8/preview)
 
 ---
 
