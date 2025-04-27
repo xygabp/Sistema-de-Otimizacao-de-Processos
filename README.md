@@ -1,4 +1,4 @@
-# 🔄 Revolução de Linha de Produção
+# 🔄 Sistema de Otimização de Processos
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellowgreen" alt="Status">
