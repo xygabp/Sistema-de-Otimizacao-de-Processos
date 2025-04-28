@@ -84,7 +84,7 @@ Solução inteligente para gestão de recursos humanos em ambientes industriais 
 ### 📋 Sobre o protótipo
 - **Versão atual:** 2.1
 - **Status:** Em evolução contínua
-- **Última atualização:** 15/06/2023
+- **Última atualização:** 28/04/2025
 
 ### ✨ Recursos visuais
 - Representação fiel do sistema real
