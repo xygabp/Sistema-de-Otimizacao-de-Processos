@@ -113,5 +113,5 @@ Assista ao vídeo completo de demonstração do projeto:
 
 > **Nota:** O vídeo foi produzido como parte dos requisitos da disciplina de Engenharia de Software II na FATEC.
 
-```bash
+
 
