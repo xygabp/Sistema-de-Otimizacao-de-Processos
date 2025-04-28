@@ -78,24 +78,18 @@ git clone https://github.com/xygabp/Revolucao-da-Gestao-de-Linha-de-Producao.git
 cd Revolucao-da-Gestao-de-Linha-de-Producao
 ./mvnw spring-boot:run
 
-## 🎨 Protótipo e Interface
+## 🎨 Protótipo no Figma
 
-<div align="center">
-  <a href="https://www.figma.com/design/kiZUhru4jusxelx609OXbO/Untitled?node-id=0-1&t=HgMfDpJEiqztVL8S-1" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-Protótipo_Interativo-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="Acesse o protótipo no Figma">
-  </a>
-  <br>
-  <sub>Versão 2.1 - Atualizado em 15/06/2023</sub>
-</div>
+[![Acesse o Protótipo no Figma](https://img.shields.io/badge/Figma-Protótipo_Interativo-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/kiZUhru4jusxelx609OXbO/Untitled?node-id=0-1&t=HgMfDpJEiqztVL8S-1)
 
-### Destaques do Protótipo:
-- **Fluxo completo** da alocação de colaboradores
-- **Testes de usabilidade** com operadores reais
-- **Guia de estilo** com componentes reutilizáveis
+**Versão atual:** 2.1  
+**Última atualização:** 15/06/2023
 
-### Como interagir:
-1. 👉 [Explore o protótipo](https://www.figma.com/design/kiZUhru4jusxelx609OXbO/Untitled?node-id=0-1&t=HgMfDpJEiqztVL8S-1)
-2. 💬 Deixe feedback nos comentários
-3. ✏️ Solicite acesso para edição
+### Como usar:
+1. Clique no botão acima para visualizar
+2. Use o modo "Apresentação" (ícone ▶️ no Figma)
+3. Para contribuir:
+   - Comente com sugestões
+   - Solicite acesso para edição
 
-> ⚠️ As funcionalidades implementadas podem diferir ligeiramente do protótipo.
+> Observação: O protótipo é atualizado semanalmente conforme feedbacks.
