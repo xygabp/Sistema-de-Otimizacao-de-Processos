@@ -80,21 +80,25 @@ cd Revolucao-da-Gestao-de-Linha-de-Producao
 
 ## 🎨 Design e Prototipagem
 
-[![Prototipo no Figma](https://img.shields.io/badge/FIGMA-Protótipo_Interativo-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/kiZUhru4jusxelx609OXbO/Untitled?node-id=0-1&t=HgMfDpJEiqztVL8S-1)
+<div align="center">
+  <a href="https://www.figma.com/design/kiZUhru4jusxelx609OXbO/Untitled?node-id=0-1&t=HgMfDpJEiqztVL8S-1" target="_blank">
+    <img src="https://img.shields.io/badge/FIGMA-Protótipo_Interativo-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="Acesse o protótipo">
+  </a>
+</div>
 
-### Sobre o protótipo:
+### 📋 Sobre o protótipo
 - **Versão atual:** 2.1
 - **Status:** Em evolução contínua
-- **Foco principal:** Experiência do usuário para gestores e operadores
+- **Última atualização:** 15/06/2023
 
-### Principais recursos visuais:
-✔️ Representação fiel do sistema real  
-✔️ Fluxo completo de alocação de pessoal  
-✔️ Testes de usabilidade com equipes reais  
+### ✨ Recursos visuais
+- Representação fiel do sistema real
+- Fluxo completo de alocação de pessoal
+- Testes de usabilidade com equipes reais
 
-**Como contribuir:**  
-1. Acesse o link acima  
-2. Use o modo "Apresentação" (▶️)  
-3. Deixe comentários diretos no Figma  
+### 🤝 Como contribuir
+1. Acesse o [protótipo no Figma](#)
+2. Use o modo "Apresentação" (▶️)
+3. Deixe comentários diretos nos componentes
 
-*"O design não é apenas como algo se parece, mas como funciona"* - Steve Jobs
+> *"O design não é apenas como algo se parece, mas como funciona"* - Steve Jobs
