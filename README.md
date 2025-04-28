@@ -99,7 +99,4 @@ Solução inteligente para gestão de recursos humanos em ambientes industriais 
 > *"O design não é apenas como algo se parece, mas como funciona"* - Steve Jobs
 
 ```bash
-git clone https://github.com/xygabp/Revolucao-da-Gestao-de-Linha-de-Producao.git
-cd Revolucao-da-Gestao-de-Linha-de-Producao
-./mvnw spring-boot:run
-```bash
+
