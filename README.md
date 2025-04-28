@@ -98,5 +98,20 @@ Solução inteligente para gestão de recursos humanos em ambientes industriais 
 
 > *"O design não é apenas como algo se parece, mas como funciona"* - Steve Jobs
 
+## 🎥 Vídeo de Apresentação
+
+Assista ao vídeo completo de demonstração do projeto:
+
+[![Thumbnail do Vídeo](https://img.shields.io/badge/ASSISTIR-V%C3%8DEO_DE_APRESENTA%C3%87%C3%83O-blue?style=for-the-badge&logo=youtube)](https://youtu.be/SEU_LINK_AQUI)
+
+*Duração: XX minutos*  
+*Conteúdo:*
+- Demonstração das funcionalidades principais
+- Explicação da arquitetura técnica
+- Casos de uso reais
+- Depoimento da equipe
+
+> **Nota:** O vídeo foi produzido como parte dos requisitos da disciplina de Engenharia de Software II na FATEC.
+
 ```bash
 
