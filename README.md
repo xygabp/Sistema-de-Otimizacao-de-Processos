@@ -92,7 +92,7 @@ Solução inteligente para gestão de recursos humanos em ambientes industriais 
 - Testes de usabilidade com equipes reais
 
 ### 🤝 Como contribuir
-1. Acesse o [protótipo no Figma](#)<a href="https://www.figma.com/design/kiZUhru4jusxelx609OXbO/Untitled?node-id=0-1&t=HgMfDpJEiqztVL8S-1" target="_blank">
+1. Acesse o [protótipo no Figma](#)
 2. Use o modo "Apresentação" (▶️)
 3. Deixe comentários diretos nos componentes
 
