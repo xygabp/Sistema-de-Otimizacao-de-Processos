@@ -78,18 +78,23 @@ git clone https://github.com/xygabp/Revolucao-da-Gestao-de-Linha-de-Producao.git
 cd Revolucao-da-Gestao-de-Linha-de-Producao
 ./mvnw spring-boot:run
 
-## 🎨 Protótipo no Figma
+## 🎨 Design e Prototipagem
 
-[![Acesse o Protótipo no Figma](https://img.shields.io/badge/Figma-Protótipo_Interativo-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/kiZUhru4jusxelx609OXbO/Untitled?node-id=0-1&t=HgMfDpJEiqztVL8S-1)
+[![Prototipo no Figma](https://img.shields.io/badge/FIGMA-Protótipo_Interativo-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/kiZUhru4jusxelx609OXbO/Untitled?node-id=0-1&t=HgMfDpJEiqztVL8S-1)
 
-**Versão atual:** 2.1  
-**Última atualização:** 15/06/2023
+### Sobre o protótipo:
+- **Versão atual:** 2.1
+- **Status:** Em evolução contínua
+- **Foco principal:** Experiência do usuário para gestores e operadores
 
-### Como usar:
-1. Clique no botão acima para visualizar
-2. Use o modo "Apresentação" (ícone ▶️ no Figma)
-3. Para contribuir:
-   - Comente com sugestões
-   - Solicite acesso para edição
+### Principais recursos visuais:
+✔️ Representação fiel do sistema real  
+✔️ Fluxo completo de alocação de pessoal  
+✔️ Testes de usabilidade com equipes reais  
 
-> Observação: O protótipo é atualizado semanalmente conforme feedbacks.
+**Como contribuir:**  
+1. Acesse o link acima  
+2. Use o modo "Apresentação" (▶️)  
+3. Deixe comentários diretos no Figma  
+
+*"O design não é apenas como algo se parece, mas como funciona"* - Steve Jobs
