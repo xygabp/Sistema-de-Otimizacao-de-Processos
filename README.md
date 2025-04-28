@@ -73,11 +73,6 @@ Solução inteligente para gestão de recursos humanos em ambientes industriais 
 - MySQL 8.0+
 - Maven 3.8+
 
-```bash
-git clone https://github.com/xygabp/Revolucao-da-Gestao-de-Linha-de-Producao.git
-cd Revolucao-da-Gestao-de-Linha-de-Producao
-./mvnw spring-boot:run
-
 ## 🎨 Design e Prototipagem
 
 <div align="center">
@@ -102,3 +97,8 @@ cd Revolucao-da-Gestao-de-Linha-de-Producao
 3. Deixe comentários diretos nos componentes
 
 > *"O design não é apenas como algo se parece, mas como funciona"* - Steve Jobs
+
+```bash
+git clone https://github.com/xygabp/Revolucao-da-Gestao-de-Linha-de-Producao.git
+cd Revolucao-da-Gestao-de-Linha-de-Producao
+./mvnw spring-boot:run
