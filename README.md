@@ -120,7 +120,7 @@ https://drive.google.com/file/d/1PFfB6P0fZhfyrr0d69MglzRulixlvoY_/view?usp=drive
 
 - Andreas Guilherme de Oliveira  
 - Gabriel Sales Santos  
-- Kenzo  
+- Kenzo Wendell Vassão Yonaha
 - Otávio  
 
 
