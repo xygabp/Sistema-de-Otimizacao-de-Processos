@@ -116,5 +116,14 @@ https://drive.google.com/file/d/1PFfB6P0fZhfyrr0d69MglzRulixlvoY_/view?usp=drive
 
 > **Nota:** O vídeo foi produzido como parte dos requisitos da disciplina de Engenharia de Software II na FATEC.
 
+### Integrantes do Grupo
+
+- Andreas Guilherme de Oliveira  
+- Gabriel Sales Santos  
+- Kenzo  
+- Otávio  
+
+
+
 
 
