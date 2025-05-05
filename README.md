@@ -102,7 +102,7 @@ Solução inteligente para gestão de recursos humanos em ambientes industriais 
 
 Assista ao vídeo completo de demonstração do projeto:
 
-[![Thumbnail do Vídeo](https://img.shields.io/badge/ASSISTIR-V%C3%8DEO_DE_APRESENTA%C3%87%C3%83O-blue?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1PfW-bYam4zquNeUt1pCFRb9M2Ss1ahgV/view?usp=sharing)
+[![Thumbnail do Vídeo](https://drive.google.com/file/d/1PFfB6P0fZhfyrr0d69MglzRulixlvoY_/view?usp=drive_link)
 
 *Duração: XX minutos*  
 *Conteúdo:*
