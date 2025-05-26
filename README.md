@@ -48,7 +48,7 @@ Solução inteligente para gestão de recursos humanos em ambientes industriais 
 </div>
 
 ### Camadas Principais:
-1. **Frontend**: Bootstrap 5 + Thymeleaf + Konva.js
+1. **Frontend**: Bootstrap 5
 2. **Backend**: Java 17 + Spring Boot 3.2
 3. **Banco de Dados**: MySQL 8.0 (Modelo relacional)
 
