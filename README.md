@@ -115,10 +115,15 @@ https://drive.google.com/file/d/1PFfB6P0fZhfyrr0d69MglzRulixlvoY_/view?usp=drive
 
 > **Nota:** O vídeo foi produzido como parte dos requisitos da disciplina de Engenharia de Software II na FATEC.
 
-## Modelo Conceitual (Diagrama de Classes)
+## 📘 Modelo Conceitual - Diagrama de Classes
 
-![Modelo Conceitual](https://github.com/xygabp/Sistema-de-Otimizacao-de-Processos/blob/main/Main.jpg?raw=true)
+Este modelo representa as principais entidades, atributos e relacionamentos do sistema desenvolvido, com foco nas interações entre funcionários, postos, treinamentos, produções e alocações.
 
+🔗 **Acesse o diagrama completo:**  
+[📎 Visualizar Modelo Conceitual (PNG)]([https://github.com/seu-usuario/seu-repo/blob/main/modelo-conceitual.png?raw=true](https://github.com/xygabp/Sistema-de-Otimizacao-de-Processos/blob/main/es2%20mc.png?raw=true
+))
+
+> Diagrama desenvolvido com base nas User Stories, protótipo e regras de negócio do projeto.
 
 ### Integrantes do Grupo
 
