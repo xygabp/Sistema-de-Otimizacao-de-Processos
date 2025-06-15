@@ -115,6 +115,15 @@ https://drive.google.com/file/d/1PFfB6P0fZhfyrr0d69MglzRulixlvoY_/view?usp=drive
 
 > **Nota:** O vídeo foi produzido como parte dos requisitos da disciplina de Engenharia de Software II na FATEC.
 
+## 🧩 Modelo Entidade-Relacionamento (E/R)
+
+Este modelo representa as entidades, atributos e relacionamentos essenciais do sistema, estruturando a base de dados de forma clara e organizada. Ele cobre os vínculos entre funcionários, postos, linhas de produção, treinamentos, alocações, habilidades e produções.
+
+🔗 **Acesse o diagrama completo:**  
+[📎 Visualizar Modelo E/R (Google Drive)](https://drive.google.com/file/d/1QcviqvtIiOyAXEL5MNAf_HIBur9YJ4qO/view?usp=sharing)
+
+> Modelo criado com base nas User Stories, no protótipo funcional e nas regras de negócio levantadas durante o desenvolvimento do sistema.
+
 ## 📘 Modelo Conceitual - Diagrama de Classes
 
 Este modelo representa as principais entidades, atributos e relacionamentos do sistema desenvolvido, com foco nas interações entre funcionários, postos, treinamentos, produções e alocações.
