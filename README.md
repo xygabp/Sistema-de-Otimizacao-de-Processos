@@ -120,7 +120,7 @@ https://drive.google.com/file/d/1PFfB6P0fZhfyrr0d69MglzRulixlvoY_/view?usp=drive
 Este modelo representa as principais entidades, atributos e relacionamentos do sistema desenvolvido, com foco nas interações entre funcionários, postos, treinamentos, produções e alocações.
 
 🔗 **Acesse o diagrama completo:**  
-[📎 Visualizar Modelo Conceitual (PNG)]([https://github.com/xygabp/Sistema-de-Otimizacao-de-Processos/blob/main/es2%20mc.png?raw=true](https://drive.google.com/file/d/1o5op0M8btnxl7E-D024MSh2HRmZSxUNA/view?usp=sharing))
+[📎 Visualizar Modelo Conceitual (PNG)](https://drive.google.com/file/d/1o5op0M8btnxl7E-D024MSh2HRmZSxUNA/view?usp=sharing)
 
 > Diagrama desenvolvido com base nas User Stories, protótipo e regras de negócio do projeto.
 
