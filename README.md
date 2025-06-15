@@ -117,8 +117,6 @@ https://drive.google.com/file/d/1PFfB6P0fZhfyrr0d69MglzRulixlvoY_/view?usp=drive
 
 ## 📘 Modelo Conceitual - Diagrama de Classes
 
-## 📘 Modelo Conceitual - Diagrama de Classes
-
 Este modelo representa as principais entidades, atributos e relacionamentos do sistema desenvolvido, com foco nas interações entre funcionários, postos, treinamentos, produções e alocações.
 
 🔗 **Acesse o diagrama completo:**  
