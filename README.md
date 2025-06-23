@@ -129,7 +129,7 @@ Este modelo representa as entidades, atributos e relacionamentos essenciais do s
 Este modelo representa as principais entidades, atributos e relacionamentos do sistema desenvolvido, com foco nas interações entre funcionários, postos, treinamentos, produções e alocações.
 
 🔗 **Acesse o diagrama completo:**  
-[📎 Visualizar Modelo Conceitual (PNG)](https://drive.google.com/file/d/1o5op0M8btnxl7E-D024MSh2HRmZSxUNA/view?usp=sharing)
+[📎 Visualizar Modelo Conceitual (PNG)]([://dhttpsrive.google.com/file/d/1o5op0M8btnxl7E-D024MSh2HRmZSxUNA/view?usp=sharing](https://drive.google.com/file/d/1dW3yCnK_-OyN0yEEre4IGZYu-KI9qfAv/view?usp=sharing))
 
 > Diagrama desenvolvido com base nas User Stories, protótipo e regras de negócio do projeto.
 
