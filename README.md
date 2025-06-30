@@ -149,7 +149,7 @@ O material segue o template oficial da disciplina de Engenharia de Software II d
 - Análise simulada de integração com o sistema CAA
 
 🔗 **Acesse o documento completo:**  
-[📎 Visualizar Documento Final (DOCX)](https://github.com/seu-usuario/seu-repo/blob/main/Documento_Final_ES2_Atualizado.docx?raw=true)
+[📎 Visualizar Documento Final (DOCX)] (https://docs.google.com/document/d/1AojJXEw2E6waCFxWS-vAUND4AVTcDWN7/edit?usp=drivesdk&ouid=110330896226553490092&rtpof=true&sd=true)
 
 ### Integrantes do Grupo
 
