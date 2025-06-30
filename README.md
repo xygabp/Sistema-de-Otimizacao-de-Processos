@@ -133,6 +133,24 @@ Este modelo representa as principais entidades, atributos e relacionamentos do s
 
 > Diagrama desenvolvido com base nas User Stories, protótipo e regras de negócio do projeto.
 
+## 📄 Documento Final – Engenharia de Software II
+
+Este documento apresenta uma visão consolidada do projeto desenvolvido, desde a compreensão do problema até a proposta de solução, tecnologias utilizadas e análise de viabilidade de integração com o ambiente real da empresa ZF Automotive do Brasil.
+
+O material segue o template oficial da disciplina de Engenharia de Software II da FATEC Sorocaba, incluindo:
+
+- Definição do problema
+- Proposta de solução e viabilidade
+- Visão geral dos requisitos do sistema
+- Tecnologias e conceitos utilizados
+- Situação atual (estado da arte)
+- Estimativa de custo
+- Glossário técnico
+- Análise simulada de integração com o sistema CAA
+
+🔗 **Acesse o documento completo:**  
+[📎 Visualizar Documento Final (DOCX)](https://github.com/seu-usuario/seu-repo/blob/main/Documento_Final_ES2_Atualizado.docx?raw=true)
+
 ### Integrantes do Grupo
 
 - Andreas Guilherme de Oliveira  
