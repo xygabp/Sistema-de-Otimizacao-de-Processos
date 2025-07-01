@@ -105,7 +105,7 @@ Assista ao vídeo completo de demonstração do projeto:
 ## 📽 Apresentação em Vídeo
 
 [![Clique para assistir](https://img.shields.io/badge/🎥_Vídeo_de_Demonstração-FF0000?style=flat-square)](
-https://drive.google.com/file/d/1PFfB6P0fZhfyrr0d69MglzRulixlvoY_/view?usp=drive_link)
+https://drive.google.com/file/d/1h01esSDPu9oInfbNPwSMQN-aixZ6y-su/view?usp=sharing)
 
 *Conteúdo:*
 - Demonstração das funcionalidades principais
