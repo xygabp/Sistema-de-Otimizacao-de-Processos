@@ -151,13 +151,36 @@ O material segue o template oficial da disciplina de Engenharia de Software II d
 🔗 **Acesse o documento completo:**  
 [📎 Visualizar Documento Final (DOCX)](https://docs.google.com/document/d/1AojJXEw2E6waCFxWS-vAUND4AVTcDWN7/edit?usp=drivesdk&ouid=110330896226553490092&rtpof=true&sd=true)
 
-### Integrantes do Grupo
+## 🎓 Projeto Final — Engenharia de Software II
 
+Este repositório contém o projeto desenvolvido para a disciplina de **Engenharia de Software II** da **FATEC Sorocaba**, no curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
+
+### 📌 Tema do Projeto
+**Sistema de Otimização de Processos Produtivos**  
+Uma solução para auxiliar gestores industriais na alocação de funcionários, controle de treinamentos e monitoramento visual da linha de produção, com base em habilidades e indicadores de desempenho.
+
+### 👨‍💻 Equipe de Desenvolvimento
 - Andreas Guilherme de Oliveira  
 - Gabriel Sales Santos  
-- Kenzo Wendell Vassão Yonaha
-- Otávio Augusto do Amaral Machado
+- Kenzo Wendell  
+- Otávio Augusto  
 
+**Professor Orientador:** Glauco Todesco  
+**Turma:** ADS — Diurno
+**Ano/Semestre:** 2025 / 1º semestre
+
+---
+
+🎥 **Apresentação em vídeo:**  
+[▶️ Assistir no Google Drive](https://drive.google.com/file/d/1h01esSDPu9oInfbNPwSMQN-aixZ6y-su/view?usp=drivesdk)
+
+📄 **Documentação:** [Acesse aqui](#)  
+📊 **Modelos UML e E/R:** [Acesse aqui](#)  
+💻 **Frontend + Backend:** [Acesse aqui](#)
+
+---
+
+> Projeto desenvolvido com base em estudos de viabilidade, user stories, prototipação no Figma, modelagem e implementação funcional de uma parte do sistema.
 
 
 
