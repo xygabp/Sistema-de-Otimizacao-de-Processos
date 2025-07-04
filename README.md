@@ -174,9 +174,6 @@ Uma solução para auxiliar gestores industriais na alocação de funcionários,
 🎥 **Apresentação em vídeo:**  
 [▶️ Assistir no Google Drive](https://drive.google.com/file/d/1h01esSDPu9oInfbNPwSMQN-aixZ6y-su/view?usp=drivesdk)
 
-📄 **Documentação:** [Acesse aqui](#)  
-📊 **Modelos UML e E/R:** [Acesse aqui](#)  
-💻 **Frontend + Backend:** [Acesse aqui](#)
 
 ---
 
